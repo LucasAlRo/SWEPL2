@@ -1,1 +1,1 @@
-# SWEPL2
+Lab Practice 2 of the Software Engineering subject (UAH)
